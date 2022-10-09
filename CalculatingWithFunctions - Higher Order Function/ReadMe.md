@@ -1,6 +1,6 @@
 This, indeed is not my solution. (Credits: https://dev.to/aspittel/comment/6goi)
 
-Today, 10/09/2022, I am for sure a Newbie in this Python world, but this does not stop me to wonder and to apriciate the powers behind this language.
+Today, 10/09/2022, I am for sure a Newbie, in this Python world, but this does not stop me to wonder and to apriciate the powers behind this language.
 
 I have to admit that the solution for this CodeWar problem blew my mind, and I will post it here in order to show it to others.
 
